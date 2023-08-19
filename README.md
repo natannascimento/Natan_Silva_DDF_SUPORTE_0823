@@ -118,3 +118,33 @@ A)
 B)
 
 ![Print](img/Chat.png)
+
+---
+<br>
+
+## Item 4 - Sobre SQL
+<br>
+
+``` sql
+SELECT
+    CASE
+        WHEN jobrole IN ('Sales Executive', 
+        'Research Scientist', 
+        'Laboratory Technician', 
+        'Manufacturing Director', 
+        'Healthcare Representative') 
+        THEN jobrole
+        ELSE 'Outros Cargos'
+    END AS cargos,
+    COUNT(*) AS total_empregados
+FROM TB__TAEZZB__EMPLOYEE
+GROUP BY cargos;
+
+```
+<br>
+
+![Print](img/grafico1.png)
+
+<br>
+
+![Print](img/grafico2.png)
