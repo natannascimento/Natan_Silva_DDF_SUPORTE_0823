@@ -1,6 +1,7 @@
 # Case Técnico
 
 ## Item 1 - Sobre Troubleshooting
+<br>
 
 **Resposta ao Cliente:**
 
@@ -28,10 +29,10 @@ Natan Nascimento <br>
 Analista de Suporte da Dadosfera 
 
 ---
+<br>
 
 ## Item 2 - Sobre Processos Internos
-
-
+<br>
 
 **1. Planejamento e Preparação:**
 
@@ -76,6 +77,44 @@ Analista de Suporte da Dadosfera
 Em resumo, uma abordagem cuidadosa que inclui comunicação clara, preparação detalhada, suporte dedicado e avaliação contínua será fundamental para garantir uma transição suave e eficiente para a nova plataforma de gerenciamento de diretório em nuvem. Isso minimizará o impacto nas operações dos clientes e permitirá que eles se adaptem com sucesso às mudanças.
 
 ---
+<br>
 
-### Item 3 - Sobre Boas-Práticas de Suporte
+## Item 3 - Sobre Boas-Práticas de Suporte
+<br>
 
+## Implementação de uma Ferramenta de Chatbot com IA na Dadosfera
+
+Para melhorar a satisfação e o envolvimento do cliente na Dadosfera por meio de um chatbot com IA robusta, seguiria uma abordagem estratégica centrada no cliente:
+
+1. **Identificação de Casos de Uso:** Identificaria cenários nos quais o chatbot poderia ser útil, como consultas sobre procedimentos, solução de problemas comuns e suporte à integração.
+
+2. **Design de Diálogo Natural:** Criaria fluxos de conversação naturais e amigáveis, considerando a linguagem e as expectativas dos clientes.
+
+3. **Integração de Conhecimento:** Integraria o chatbot à documentação da Dadosfera (docs.dadosfera.ai) para respostas precisas e confiáveis.
+
+4. **Personalização e Contexto:** Implementaria rastreamento de contexto para respostas personalizadas e contínuas.
+
+5. **Feedback e Melhoria Contínua:** Coletaria feedback dos clientes após interações para melhorias contínuas.
+
+6. **Transferência para Agentes Humanos:** Permitiria transferência suave para agentes quando necessário.
+
+7. **Monitoramento e Análise:** Acompanharia métricas de desempenho para avaliar eficácia.
+
+8. **Aprimoramento Gradual:** Ajustaria o chatbot com base em feedbacks e métricas.
+
+9. **Promoção da Ferramenta:** Divulgaria o chatbot aos clientes por diversos canais.
+
+10. **Capacitação da Equipe:** Treinaria a equipe de suporte para trabalhar em conjunto com o chatbot.
+
+A implementação do chatbot com IA na Dadosfera melhoraria a satisfação do cliente, oferecendo suporte eficiente 24/7 e permitindo que a equipe de suporte focasse em questões complexas.
+
+
+A)
+
+![Fluxograma](img/Diagram.jpg)
+
+<br>
+
+B)
+
+![Print](img/Chat.png)
